@@ -1,1 +1,1 @@
-# discord-hatapp
+# discord-chatapp
